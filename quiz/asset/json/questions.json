@@ -1,0 +1,554 @@
+{
+  "questions": [
+      {
+          "qId": 1,
+          "category": "politics",
+          "text": "The members of the Rajya Sabha are elected by",
+          "choices": [
+              { "text": "the people", "value": "the_people"},
+              { "text": "lok sabha", "value": "lok_sabha"},
+              { "text": "elected members of the legislative assembly", "value": "elected_members_of_the_legislative_assembly"},
+              { "text": "elected members of the legislative council", "value": "elected_members_of_the_legislative_council"}
+          ]
+      },
+      {
+          "qId": 2,
+          "category": "politics",
+          "text": "The power to decide an election petition is vested in the",
+          "choices": [
+              { "text": "Parliament", "value": "Parliament"},
+              { "text": "Supreme Courta", "value": "Supreme_Court"},
+              { "text": "High courts", "value": "High_courts"},
+              { "text": "Election Commission", "value": "Election_Commission"}
+          ]
+      },
+      {
+          "qId": 3,
+          "category": "politics",
+          "text": "The present Lok Sabha is the",
+          "choices": [
+              { "text": "13th Lok Sabha", "value": "13th_Lok_Sabha"},
+              { "text": "14th Lok Sabha", "value": "14th_Lok_Sabha"},
+              { "text": "15th Lok Sabha", "value": "15th_Lok_Sabha"},
+              { "text": "16th Lok Sabha", "value": "16th_Lok_Sabha"}
+          ]
+      },
+      {
+          "qId": 4,
+          "category": "politics",
+          "text": "Which is considered as the heart and soul of the Indian Constitution by Dr. Ambedkar?",
+          "choices": [
+              { "text": "Right to Equality", "value": "rgt_eqality"},
+              { "text": "Right to Education", "value": "rgt_education"},
+              { "text": "Right to Freedom of Speech", "value": "rgt_speech"},
+              { "text": " Right to constitutional Remedies", "value": "rgt_cons_remedies"}
+          ]
+      },
+      {
+          "qId": 5,
+          "category": "geography",
+          "text": "Which city is known as the 'Manchester of South India'?",
+          "choices": [
+              { "text": "Chennai", "value": "Chennai"},
+              { "text": "Coimbatore", "value": "Coimbatore"},
+              { "text": "Bangalore", "value": "Bangalore"},
+              { "text": "Madurai", "value": "Madurai"}
+          ]
+      },
+      {
+          "qId": 6,
+          "category": "geography",
+          "text": "What is the time difference (in hours) between GMT and IST (Indian Standard Time)?",
+          "choices": [
+              { "text": "Five", "value": "Five"},
+              { "text": "Six", "value": "Six"},
+              { "text": "Six and a half", "value": "Six_and_half"},
+              { "text": "Five and a half", "value": "Five_and_half"}
+          ]
+      },
+      {
+          "qId": 7,
+          "category": "geography",
+          "text": "Name the strait dividing India and Sri Lanka",
+          "choices": [
+              { "text": "Magellan", "value": "Magellan"},
+              { "text": "Palk", "value": "Palk"},
+              { "text": "Bass", "value": "Bass"},
+              { "text": "Bering", "value": "Bering"}
+          ]
+      },
+      {
+          "qId": 8,
+          "category": "geography",
+          "text": "Which State in India is called the 'Land of Five Rivers'?",
+          "choices": [
+              { "text": "Uttar Pradesh", "value": "Uttar_Pradesh"},
+              { "text": "Punjab", "value": "Punjab"},
+              { "text": "Haryana", "value": "Haryana"},
+              { "text": "Bihar", "value": "Bihar"}
+          ]
+      },
+      {
+          "qId": 9,
+          "category": "geography",
+          "text": "On which river is the Bhakra Nangal Dam of India built",
+          "choices": [
+              { "text": "Yamuna", "value": "Yamuna"},
+              { "text": "Ganga", "value": "Ganga"},
+              { "text": "Sutlej", "value": "Sutlej"},
+              { "text": "Brahmaputra", "value": "Brahmaputra"}
+          ]
+      },
+      {
+          "qId": 10,
+          "category": "geography",
+          "text": "Which city in India is called the 'Lake City'",
+          "choices": [
+              { "text": "Udaipur", "value": "Udaipur"},
+              { "text": "Jaipur", "value": "Jaipur"},
+              { "text": "Raipur", "value": "Raipur"},
+              { "text": "Jodhpur", "value": "Jodhpur"}
+          ]
+      },
+      {
+          "qId": 11,
+          "category": "geography",
+          "text": "Which one among the following is not an important factor of climate of an area?",
+          "choices": [
+              { "text": "Longitude", "value": "Longitude"},
+              { "text": "Latitude", "value": "Latitude"},
+              { "text": "Altitude", "value": "Altitude"},
+              { "text": "Distance from the sea", "value": "sea"}
+          ]
+      },
+      {
+          "qId": 12,
+          "category": "geography",
+          "text": "Which one among the following rivers does not flow into the bay of Bengal?",
+          "choices": [
+              { "text": "Tapti", "value": "Tapti"},
+              { "text": "Mahanadi", "value": "Mahanadi"},
+              { "text": "Godavari", "value": "Godavari"},
+              { "text": "Cauvery", "value": "Cauvery"}
+          ]
+      },
+      {
+          "qId": 13,
+          "category": "geography",
+          "text": "Jet streams are usually found in the:",
+          "choices": [
+              { "text": "Exosphere", "value": "Exosphere"},
+              { "text": "Mesosphere", "value": "Mesosphere"},
+              { "text": "Troposphere", "value": "Troposphere"},
+              { "text": "Ionosphere", "value": "Ionosphere"}
+          ]
+      },
+      {
+          "qId": 14,
+          "category": "geography",
+          "text": "Which of the following hills are found where the Eastern Ghats and the Western Ghats meet",
+          "choices": [
+              { "text": "Anaimalai", "value": "Anaimalai"},
+              { "text": "Cardamon", "value": "Cardamon"},
+              { "text": "Nilgiri", "value": "Nilgiri"},
+              { "text": "Shevoroy", "value": "Shevoroy"}
+          ]
+      },
+      {
+          "qId": 15,
+          "category": "geography",
+          "text": "Which one of the following type of resource is iron ore",
+          "choices": [
+              { "text": "Renewable", "value": "Renewable"},
+              { "text": "Biotic", "value": "Biotic"},
+              { "text": "Flow", "value": "Flow"},
+              { "text": "Non-renewable", "value": "Non_renewable"}
+          ]
+      },
+      {
+          "qId": 16,
+          "category": "geography",
+          "text": "Which one of the following is the main cause of land degradation in Punjab",
+          "choices": [
+              { "text": "Intensive cultivation", "value": "Renewable_cultivation"},
+              { "text": "Deforestation", "value": "Deforestation"},
+              { "text": "Over irrigation", "value": "Over_irrigation"},
+              { "text": "Overgrazing", "value": "Overgrazing"}
+          ]
+      },
+      {
+          "qId": 17,
+          "category": "geography",
+          "text": "Which one of the following is the main cause of land degradation in Punjab",
+          "choices": [
+              { "text": "Intensive cultivation", "value": "Intensive_cultivation"},
+              { "text": "Deforestation", "value": "Deforestation"},
+              { "text": "Over irrigation", "value": "Over_irrigation"},
+              { "text": "Overgrazing", "value": "Overgrazing"}
+          ]
+      },
+      {
+          "qId": 18,
+          "category": "geography",
+          "text": "In which one of the following states is terrace cultivation practised?",
+          "choices": [
+              { "text": "Punjab", "value": "Punjab"},
+              { "text": "Uttar Pradesh", "value": "Uttar_Pradesh"},
+              { "text": "Haryana", "value": "Haryana"},
+              { "text": "Uttrakhand", "value": "Uttrakhand"}
+          ]
+      },
+      {
+          "qId": 19,
+          "category": "geography",
+          "text": "Shimla is cooler than Amritsar although both are situated on the same latitude. This is because",
+          "choices": [
+              { "text": "Shimla is further north", "value": "Shimla_north"},
+              { "text": "Shimla is at a greater height above sea level than Amritsar", "value": "Shimla_high_sea_level"},
+              { "text": "Shimla is farther from the equator.", "value": "Shimla_equator"},
+              { "text": "Their longitudes differ", "value": "long_diff"}
+          ]
+      },
+      {
+          "qId": 20,
+          "category": "geography",
+          "text": "The radiation that heats earth's atmosphere comes from the",
+          "choices": [
+              { "text": "sun", "value": "sun"},
+              { "text": "earth", "value": "earth"},
+              { "text": "ionosphere", "value": "ionosphere"},
+              { "text": "sun and earth", "value": "sun_and_earth"}
+          ]
+      },
+      {
+          "qId": 21,
+          "category": "geography",
+          "text": "Excess carbon dioxide in the atmosphere due to pollution cause",
+          "choices": [
+              { "text": "temperature to rise", "value": "temperature_rise"},
+              { "text": "temperature to fall", "value": "temperature_fall"},
+              { "text": "no temperature change", "value": "no_temp_change"},
+              { "text": "increase in ultra-violet radiation", "value": "ultra_violet_radiation"}
+          ]
+      },
+      {
+          "qId": 22,
+          "category": "geography",
+          "text": "The velocity of winds is related to",
+          "choices": [
+              { "text": "revolution of the earth", "value": "revolution_earth"},
+              { "text": "rotation of the earth", "value": "rotation_earth"},
+              { "text": "temperature", "value": "temperature"},
+              { "text": "pressure gradient", "value": "pressure_gradient"}
+          ]
+      },
+      {
+          "qId": 23,
+          "category": "geography",
+          "text": "A narrow inlet of sea between cliffs or steep slopes, especially associated with Scandinavia is",
+          "choices": [
+              { "text": "Bay", "value": "Bay"},
+              { "text": "Gulf Stream", "value": "Gulf_Stream"},
+              { "text": "Fjord", "value": "Fjord"},
+              { "text": "None of these", "value": "none"}
+          ]
+      },
+      {
+          "qId": 24,
+          "category": "geography",
+          "text": "Platinum, diamond, iron, silver, gold, copper, manganese, lead and zinc are found in which rock?",
+          "choices": [
+              { "text": "sedimentary", "value": "sedimentary"},
+              { "text": "metamorphic", "value": "metamorphic"},
+              { "text": "igneous", "value": "igneous"},
+              { "text": "all of these", "value": "all_of_these"}
+          ]
+      },
+      {
+          "qId": 25,
+          "category": "geography",
+          "text": "The percentage of irrigated land in India is about",
+          "choices": [
+              { "text": "45", "value": "45"},
+              { "text": "55", "value": "55"},
+              { "text": "65", "value": "65"},
+              { "text": "35", "value": "35"}
+          ]
+      },
+      {
+          "qId": 26,
+          "category": "politics",
+          "text": "In Parliament, the chief spokesman of the government on matters of general policy is the",
+          "choices": [
+              { "text": "Speaker", "value": "Speaker"},
+              { "text": "Prime Minister", "value": "Prime_Minister"},
+              { "text": "Minister of Parliamentary Affairs", "value": "Parliamentary_Affairs"},
+              { "text": "Home Minister", "value": "Home_Minister"}
+          ]
+      },
+      {
+          "qId": 27,
+          "category": "politics",
+          "text": "The subjects on which both the Centre and State Governments can legislate are contained in",
+          "choices": [
+              { "text": "Union List", "value": "Union_List"},
+              { "text": "State List", "value": "State_List"},
+              { "text": "Concurrent List", "value": "Concurrent_List"},
+              { "text": "Residuary List", "value": "Residuary_List"}
+          ]
+      },
+      {
+          "qId": 28,
+          "category": "politics",
+          "text": "Education' which was initially a state subject was transferred to the Concurrent List by the",
+          "choices": [
+              { "text": "24th Amendment", "value": "24th"},
+              { "text": "25th Amendment ", "value": "25th"},
+              { "text": "42nd Amendment", "value": "42nd"},
+              { "text": "44th Amendment", "value": "44th"}
+          ]
+      },
+      {
+          "qId": 29,
+          "category": "politics",
+          "text": "The Right against exploitation in the Fundamental Rights has been given to",
+          "choices": [
+              { "text": "children", "value": "children"},
+              { "text": "labourers", "value": "labourers"},
+              { "text": "govt. servants", "value": "govt_servants"},
+              { "text": "legislators", "value": "legislators"}
+          ]
+      },
+      {
+          "qId": 30,
+          "category": "politics",
+          "text": "The office of the ‘Whip’ is mentioned in",
+          "choices": [
+              { "text": "Constitution", "value": "Constitution"},
+              { "text": "Rules of the house", "value": "Rules of the house"},
+              { "text": "In a separate Parliamentary Statute", "value": "Parliamentary_Statute"},
+              { "text": "None of these", "value": "none"}
+          ]
+      },
+      {
+          "qId": 31,
+          "category": "politics",
+          "text": "The first Indian person to be inducted into the Viceroy’s Executive Council was",
+          "choices": [
+              { "text": "Dadabhai Naoroji", "value": "Dadabhai_Naoroji"},
+              { "text": "Sachichidanand Sinha", "value": "Sachichidanand_Sinha"},
+              { "text": "Satyendra Prasanno Sinha", "value": "Satyendra"},
+              { "text": " Satyendranath Tagore", "value": "Satyendranath_Tagore"}
+          ]
+      },
+      {
+          "qId": 32,
+          "category": "politics",
+          "text": "Who has the authority to call a joint sitting of the two Houses of Parliament",
+          "choices": [
+              { "text": "Prime Minister", "value": "Prime_Minister"},
+              { "text": "President", "value": "President"},
+              { "text": "Member of Lok Sabha", "value": "Member_Lok_Sabha"},
+              { "text": "Member of Rajya Sabha", "value": "Member_Rajya_Sabha"}
+          ]
+      },
+      {
+          "qId": 33,
+          "category": "politics",
+          "text": "Who appoints Ad hoc Committee on Parliament",
+          "choices": [
+              { "text": "Speaker of Lok Sabha", "value": "Speaker_Lok"},
+              { "text": "Chairman of Rajya Sabha", "value": "Chairman_Rajya_Sabha"},
+              { "text": "Both a & b", "value": "Both_a_b"},
+              { "text": "None of the above", "value": "None_of_the_above"}
+          ]
+      },
+      {
+          "qId": 34,
+          "category": "politics",
+          "text": "In the event of the President and the Vice-President not being available, who among the following will perform the functions of the President?",
+          "choices": [
+              { "text": "Prime Minister", "value": "Prime_Minister"},
+              { "text": "Speaker of Lok Sabha", "value": "Speaker_Lok"},
+              { "text": "Chief Justice of India", "value": "Chief_Justice_India"},
+              { "text": "Senior most Governor of a State", "value": "Senior_Governor_State"}
+          ]
+      },
+      {
+          "qId": 35,
+          "category": "politics",
+          "text": "Who of the following was the Chairman of the Drafting Committee?",
+          "choices": [
+              { "text": "H.N. Kanzru", "value": "_.N_Kanzru"},
+              { "text": "B.R. Ambedkar", "value": "B_R_mbedkar"},
+              { "text": "Dr. Rajendra Prasad", "value": "Dr_Rajendra_Prasad"},
+              { "text": "Alladi Krishnaswami Ayyar", "value": "Alladi_Krishnaswami_Ayyar"}
+          ]
+      },
+      {
+          "qId": 36,
+          "category": "politics",
+          "text": "Which constitutional article empowers amendment in the Constitution of India",
+          "choices": [
+              { "text": "368", "value": "368"},
+              { "text": "356", "value": "356"},
+              { "text": "357", "value": "357"},
+              { "text": "359", "value": "359"}
+          ]
+      },
+      {
+          "qId": 37,
+          "category": "politics",
+          "text": "The institution of Lokayukta was created for the first time by the state of",
+          "choices": [
+              { "text": "Orissa", "value": "Orissa"},
+              { "text": "Bihar", "value": "Bihar"},
+              { "text": "Punjab", "value": "Punjab"},
+              { "text": "Maharashtra", "value": "Maharashtra"}
+          ]
+      },
+      {
+          "qId": 38,
+          "category": "politics",
+          "text": "A Presidential Ordinance can remain in force for",
+          "choices": [
+              { "text": "6 months", "value": "6"},
+              { "text": "8 months", "value": "8"},
+              { "text": "12 months", "value": "12"},
+              { "text": "None of these", "value": "none"}
+          ]
+      },
+      {
+          "qId": 39,
+          "category": "politics",
+          "text": "Who considered Right to constitutional Remedies as vey “heart and soul” of the Indian Constitution?",
+          "choices": [
+              { "text": "M.K. Gandhi", "value": "M_K_Gandhi"},
+              { "text": "J. L. Nehru", "value": "J_L_Nehru"},
+              { "text": "B.R. Ambedkar", "value": "B_R_mbedkar"},
+              { "text": "Dr. Rajendra Prasad", "value": "Dr_Rajendra_Prasad"}
+          ]
+      },
+      {
+          "qId": 40,
+          "category": "politics",
+          "text": "The Indian Parliament consists of",
+          "choices": [
+              { "text": "Lok Sabha Only", "value": "LS"},
+              { "text": "Lok Sabha and the President", "value": "LSP"},
+              { "text": "Rajya Sabha and Lok Sabha", "value": "RS_LS"},
+              { "text": "The President, Rajya Sabha and Lok Sabha", "value": "P_RS_LS"}
+          ]
+      },
+      {
+          "qId": 41,
+          "category": "history",
+          "text": "The first Mughal emperor to issue a farman in favour of the British to open a factory at Surat was ?",
+          "choices": [
+              { "text": "Aurangzeb", "value": "Aurangzeb"},
+              { "text": "Jehangir", "value": "Jehangir"},
+              { "text": "Shahjehan", "value": "Shahjehan"},
+              { "text": "Akbar", "value": "Akbar"}
+          ]
+      },
+      {
+          "qId": 42,
+          "category": "history",
+          "text": "The Mughal ruler Bahadur Shah II was exiled by British and sent to ?",
+          "choices": [
+              { "text": "Mandalay", "value": "Mandalay"},
+              { "text": "Andaman & Nicobar", "value": "Andaman_Nicobar"},
+              { "text": "Rangoon", "value": "Rangoon"},
+              { "text": "Hyderabad", "value": "Hyderabad"}
+          ]
+      },
+      {
+          "qId": 43,
+          "category": "history",
+          "text": "The Mughal ruler Bahadur Shah II was exiled by British and sent to ?",
+          "choices": [
+              { "text": "Mandalay", "value": "Mandalay"},
+              { "text": "Andaman & Nicobar", "value": "Andaman_Nicobar"},
+              { "text": "Rangoon", "value": "Rangoon"},
+              { "text": "Hyderabad", "value": "Hyderabad"}
+          ]
+      },
+      {
+          "qId": 44,
+          "category": "history",
+          "text": "The last in succession of Jaina Tirthankaras was?",
+          "choices": [
+              { "text": "Mahavira", "value": "Mahavira"},
+              { "text": "Rishaba", "value": "Rishaba"},
+              { "text": "Parsvanatha", "value": "Parsvanatha"},
+              { "text": "Manisubrata", "value": "Manisubrata"}
+          ]
+      },
+      {
+          "qId": 45,
+          "category": "history",
+          "text": "The name by which  Ashoka is generally referred to in his inscriptions is?",
+          "choices": [
+              { "text": "Dharmakirti", "value": "Dharmakirti"},
+              { "text": "Priyadarsi", "value": "Priyadarsi"},
+              { "text": "Chakravarti", "value": "Chakravarti"},
+              { "text": "Dharmadeva", "value": "Dharmadeva"}
+          ]
+      },
+      {
+          "qId": 46,
+          "category": "history",
+          "text": "A lot of details regarding the village administration under the Cholas is provided in the inscriptions at",
+          "choices": [
+              { "text": "Uttaramerur", "value": "Uttaramerur"},
+              { "text": "Kanchipuram", "value": "Kanchipuram"},
+              { "text": "Thanjavur", "value": "Thanjavur"},
+              { "text": "Uraiyur", "value": "Uraiyur"}
+          ]
+      },
+      {
+          "qId": 47,
+          "category": "history",
+          "text": "The Buddhist Sect Mahayana formally came into existence during the reign of ?",
+          "choices": [
+              { "text": "Ashoka", "value": "Ashoka"},
+              { "text": "Samudragupta", "value": "Samudragupta"},
+              { "text": "Kanishka", "value": "Kanishka"},
+              { "text": "Parikshit", "value": "Harshavardhana"}
+          ]
+      },
+      {
+          "qId": 48,
+          "category": "history",
+          "text": "Who among the following is known as ‘the liberator of the press’ ",
+          "choices": [
+              { "text": "William Jones", "value": "William_Jones"},
+              { "text": "Wellesley", "value": "Wellesley"},
+              { "text": "Sir Charles Metcalfe", "value": "Sir_Charles_Metcalfe"},
+              { "text": "Lord Minto", "value": "Lord_Minto"}
+          ]
+      },
+      {
+          "qId": 49,
+          "category": "history",
+          "text": "Who composed the Gayatri Mantra",
+          "choices": [
+              { "text": "Vishvamitra", "value": "Vishvamitra"},
+              { "text": "Vasishtha", "value": "Vasishtha"},
+              { "text": "Indra", "value": "Indra"},
+              { "text": "Parikshit", "value": "Parikshit"}
+          ]
+      },
+      {
+          "qId": 50,
+          "category": "history",
+          "text": "Who composed the Gayatri Mantra",
+          "choices": [
+              { "text": "Sardar Vallabhai patel", "value": "Sardar_Vallabhai_patel"},
+              { "text": "Rajinder Singh", "value": "Rajinder_Singh"},
+              { "text": "Nelson Mandela", "value": "Nelson_Mandela"},
+              { "text": "Porus", "value": "Porus"}
+          ]
+      }
+  ]
+}
