@@ -177,17 +177,6 @@
           ]
       },
       {
-          "qId": 17,
-          "category": "geography",
-          "text": "Which one of the following is the main cause of land degradation in Punjab",
-          "choices": [
-              { "text": "Intensive cultivation", "value": "Intensive_cultivation"},
-              { "text": "Deforestation", "value": "Deforestation"},
-              { "text": "Over irrigation", "value": "Over_irrigation"},
-              { "text": "Overgrazing", "value": "Overgrazing"}
-          ]
-      },
-      {
           "qId": 18,
           "category": "geography",
           "text": "In which one of the following states is terrace cultivation practised?",
@@ -198,6 +187,8 @@
               { "text": "Uttrakhand", "value": "Uttrakhand"}
           ]
       },
+      
+      
       {
           "qId": 19,
           "category": "geography",
@@ -253,6 +244,7 @@
               { "text": "None of these", "value": "none"}
           ]
       },
+      insert into que_choices values ("q6", "a", "a", "b", "b", "c", "c", "d", "d");
       {
           "qId": 24,
           "category": "geography",

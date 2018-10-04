@@ -1,15 +1,15 @@
 const fs = require('fs');
 const quizService = require("../services/quizService");
+var models = require("../../models");
+
 var quizController = {
     getQuizQuestions : function (req, res, next) {
-        fs.readFile("/Users/vipinjoshi/Documents/github/node-expe/quiz/asset/json/questions.json", 'utf8', function (error, data) {
-            quizService.updateAnswersDB().then(function () {
-                if(error) {
-                    console.log(error);
-                    return res.status(400).send("some error");
-                }
-                return res.status(200).send(data);  
-            })
+        var queryParams = req.query;
+        return quizService.getQuestions(queryParams).then(function (response) {
+            console.log("comming heere");
+            return res.send({payload: {message: "success", data: response}});
+        }, function (error) {
+            return res.status(400).send({payload: {message: "error"}});
         });
     }
 };
