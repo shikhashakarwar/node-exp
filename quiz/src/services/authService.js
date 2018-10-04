@@ -1,7 +1,7 @@
 const jwt = require('jsonwebtoken');
-const userModel = require("../models/user");
 const bcrypt = require("bcrypt");
 const config = require("../configs/appConfigs");
+var models = require("../../models");
 
 var getRefreshToken = function(data) {
     return new Promise(function (reslove, reject) {
@@ -53,39 +53,38 @@ var dbOperations = {
 
 const authService = {
     registerUser: function(userData) {
-        return userModel.getUserSchema().then(function(userTable) {
-            console.log("Authservice Authservice after getting connection");
-            return userTable.sync().then(function() {
-                return dbOperations.find({table: userTable, data: {email: userData.email}}).then(function (data) {
-                    console.log("Authservice Authservice find " + data);
-                    if(data) {
-                        return({status: 409, payload:{error: "Email id exists"}});
-                    }
-                    return getRefreshToken({email: userData.email, password: userData.password}).then(function (token) {
-                        userData['refreshToken'] = token;
-                        return dbOperations.insert({table: userTable, data: userData}).then(function (response) {
-                            console.log("Authservice Authservice insert " + JSON.stringify(userData));
-                            return({status: 200, payload: {
-                                message: "Success",
-                                user: {
-                                    firstName: response.firstName,
-                                    lastName: response.lastName,
-                                    email: response.email,
-                                    token: token,
-                                    createdAt: new Date(response.createdAt).getTime()
-                                }
-                            }});        
-                        }, function (error) {
-                            console.log("Authservice Authservice insert error " + error);
-                            return({status: 400, payload: {error: "Some error occuring"}});        
-                        });
+        return models.user.sequelize.sync().then(function(userTable) {
+            var userTable = models.user;
+            console.log("Authservice Authservice after getting connection" + userTable);
+            return dbOperations.find({table: userTable, data: {email: userData.email}}).then(function (data) {
+                console.log("Authservice Authservice find " + data);
+                if(data) {
+                    return({status: 409, payload:{error: "Email id exists"}});
+                }
+                return getRefreshToken({email: userData.email, password: userData.password}).then(function (token) {
+                    userData['refreshToken'] = token;
+                    return dbOperations.insert({table: userTable, data: userData}).then(function (response) {
+                        console.log("Authservice Authservice insert " + JSON.stringify(userData));
+                        return({status: 200, payload: {
+                            message: "Success",
+                            user: {
+                                firstName: response.firstName,
+                                lastName: response.lastName,
+                                email: response.email,
+                                token: token,
+                                createdAt: new Date(response.createdAt).getTime()
+                            }
+                        }});        
                     }, function (error) {
-                        console.log(error);
+                        console.log("Authservice Authservice insert error " + error);
+                        return({status: 400, payload: {error: "Some error occuring"}});        
                     });
                 }, function (error) {
-                    console.log("Authservice Authservice userTable error " + error);
-                    return({status: 400, payload: {error: "Some error occuring"}}); 
+                    console.log(error);
                 });
+            }, function (error) {
+                console.log("Authservice Authservice userTable error " + error);
+                return({status: 400, payload: {error: "Some error occuring"}}); 
             });
         }, function(error) {
             console.log("Authservice Authservice error ");
@@ -95,7 +94,8 @@ const authService = {
         
     },
     loginUser: function (loginData) {
-        return userModel.getUserSchema().then(function(userTable) {
+        return models.user.sequelize.sync().then(function(userTable) {
+            var userTable = models.user;
             console.log("Authservice Authservice after getting connection");
             return dbOperations.find({table: userTable, data: {email: loginData.email}}).then(function (response) {
                 if (response) {

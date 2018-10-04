@@ -1,0 +1,338 @@
+[
+    {
+        "quiz_question_qId": "q1",
+        "choice_1": "the people", "choice_1_value": "the_people",
+        "choice_2": "lok sabha", "choice_2_value": "lok_sabha",
+        "choice_3": "elected members of the legislative assembly", "choice_3_value": "elected_members_of_the_legislative_assembly",
+        "choice_4": "elected members of the legislative council", "choice_4_value": "elected_members_of_the_legislative_council"        
+    },
+    {
+        "quiz_question_qId": "q2",
+        "choice_1": "Parliament", "choice_1_value": "Parliament",
+        "choice_2": "Supreme Courta", "choice_2_value": "Supreme_Court",
+        "choice_3": "High courts", "choice_3_value": "High_courts",
+        "choice_4": "Election Commission", "choice_4_value": "Election_Commission"
+    },
+    {
+        "quiz_question_qId": "q3",
+        "choice_1": "13th Lok Sabha", "choice_1_value": "13th_Lok_Sabha",
+        "choice_2": "14th Lok Sabha", "choice_2_value": "14th_Lok_Sabha",
+        "choice_3": "15th Lok Sabha", "choice_3_value": "15th_Lok_Sabha",
+        "choice_4": "16th Lok Sabha", "choice_4_value": "16th_Lok_Sabha"
+    },
+    {
+        "quiz_question_qId": "q4",
+        "choice_1": "Right to Equality", "choice_1_value": "rgt_eqality",
+        "choice_2": "Right to Education", "choice_2_value": "rgt_education",
+        "choice_3": "Right to Freedom of Speech", "choice_3_value": "rgt_speech",
+        "choice_4": " Right to constitutional Remedies", "choice_4_value": "rgt_cons_remedies"
+    },
+    {
+        "quiz_question_qId": "q5",
+        "choice_1": "Chennai", "choice_1_value": "Chennai",
+        "choice_2": "Coimbatore", "choice_2_value": "Coimbatore",
+        "choice_3": "Bangalore", "choice_3_value": "Bangalore",
+        "choice_4": "Madurai", "choice_4_value": "Madurai"
+    },
+    {
+        "quiz_question_qId": "q6",
+        "choice_1": "Five", "choice_1_value": "Five",
+        "choice_2": "Six", "choice_2_value": "Six",
+        "choice_3": "Six and a half", "choice_3_value": "Six_and_half",
+        "choice_4": "Five and a half", "choice_4_value": "Five_and_half"
+    },
+    {
+        "quiz_question_qId": "q7",
+        "choice_1": "Magellan", "choice_1_value": "Magellan",
+        "choice_2": "Palk", "choice_2_value": "Palk",
+        "choice_3": "Bass", "choice_3_value": "Bass",
+        "choice_4": "Bering", "choice_4_value": "Bering"
+    },
+    {
+        "quiz_question_qId": "q8",
+        "choice_1": "Uttar Pradesh", "choice_1_value": "Uttar_Pradesh",
+        "choice_2": "Punjab", "choice_2_value": "Punjab",
+        "choice_3": "Haryana", "choice_3_value": "Haryana",
+        "choice_4": "Bihar", "choice_4_value": "Bihar"
+    },
+    {
+        "quiz_question_qId": "q9",
+        "choice_1": "Yamuna", "choice_1_value": "Yamuna",
+        "choice_2": "Ganga", "choice_2_value": "Ganga",
+        "choice_3": "Sutlej", "choice_3_value": "Sutlej",
+        "choice_4": "Brahmaputra", "choice_4_value": "Brahmaputra"
+    },
+    {
+        "quiz_question_qId": "q10",
+        "choice_1": "Udaipur", "choice_1_value": "Udaipur",
+        "choice_2": "Jaipur", "choice_2_value": "Jaipur",
+        "choice_3": "Raipur", "choice_3_value": "Raipur",
+        "choice_4": "Jodhpur", "choice_4_value": "Jodhpur"
+    },
+    {
+        "quiz_question_qId": "q11",
+        "choice_1": "Longitude", "choice_1_value": "Longitude",
+        "choice_2": "Latitude", "choice_2_value": "Latitude",
+        "choice_3": "Altitude", "choice_3_value": "Altitude",
+        "choice_4": "Distance from the sea", "choice_4_value": "sea"
+    },
+    {
+        "quiz_question_qId": "q12",
+        "choice_1": "Tapti", "choice_1_value": "Tapti",
+        "choice_2": "Mahanadi", "choice_2_value": "Mahanadi",
+        "choice_3": "Godavari", "choice_3_value": "Godavari",
+        "choice_4": "Cauvery", "choice_4_value": "Cauvery"
+    },
+    {
+        "quiz_question_qId": "q13",
+        "choice_1": "Exosphere", "choice_1_value": "Exosphere",
+        "choice_2": "Mesosphere", "choice_2_value": "Mesosphere",
+        "choice_3": "Troposphere", "choice_3_value": "Troposphere",
+        "choice_4": "Ionosphere", "choice_4_value": "Ionosphere"
+    },
+    {
+        "quiz_question_qId": "q14",
+        "choice_1": "Anaimalai", "choice_1_value": "Anaimalai",
+        "choice_2": "Cardamon", "choice_2_value": "Cardamon",
+        "choice_3": "Nilgiri", "choice_3_value": "Nilgiri",
+        "choice_4": "Shevoroy", "choice_4_value": "Shevoroy"
+    },
+    {
+        "quiz_question_qId": "q15",
+        "choice_1": "Renewable", "choice_1_value": "Renewable",
+        "choice_2": "Biotic", "choice_2_value": "Biotic",
+        "choice_3": "Flow", "choice_3_value": "Flow",
+        "choice_4": "Non-renewable", "choice_4_value": "Non_renewable"
+    },
+    {
+        "quiz_question_qId": "q16",
+        "choice_1": "Intensive cultivation", "choice_1_value": "Renewable_cultivation",
+        "choice_2": "Deforestation", "choice_2_value": "Deforestation",
+        "choice_3": "Over irrigation", "choice_3_value": "Over_irrigation",
+        "choice_4": "Overgrazing", "choice_4_value": "Overgrazing"
+    },
+    {
+        "quiz_question_qId": "q17",
+        "choice_1": "Punjab", "choice_1_value": "Punjab",
+        "choice_2": "Uttar Pradesh", "choice_2_value": "Uttar_Pradesh",
+        "choice_3": "Haryana", "choice_3_value": "Haryana",
+        "choice_4": "Uttrakhand", "choice_4_value": "Uttrakhand"
+    },
+    {
+        "quiz_question_qId": "q18",
+        "choice_1": "Shimla is further north", "choice_1_value": "Shimla_north",
+        "choice_2": "Shimla is at a greater height above sea level than Amritsar", "choice_2_value": "Shimla_high_sea_level",
+        "choice_3": "Shimla is farther from the equator.", "choice_3_value": "Shimla_equator",
+        "choice_4": "Their longitudes differ", "choice_4_value": "long_diff"
+    },
+    {
+        "quiz_question_qId": "q19",
+        "choice_1": "sun", "choice_1_value": "sun",
+        "choice_2": "earth", "choice_2_value": "earth",
+        "choice_3": "ionosphere", "choice_3_value": "ionosphere",
+        "choice_4": "sun and earth", "choice_4_value": "sun_and_earth"
+    },
+    {
+        "quiz_question_qId": "q20",
+        "choice_1": "temperature to rise", "choice_1_value": "temperature_rise",
+        "choice_2": "temperature to fall", "choice_2_value": "temperature_fall",
+        "choice_3": "no temperature change", "choice_3_value": "no_temp_change",
+        "choice_4": "increase in ultra-violet radiation", "choice_4_value": "ultra_violet_radiation"
+    },
+    {
+        "quiz_question_qId": "q21",
+        "choice_1": "revolution of the earth", "choice_1_value": "revolution_earth",
+        "choice_2": "rotation of the earth", "choice_2_value": "rotation_earth",
+        "choice_3": "temperature", "choice_3_value": "temperature",
+        "choice_4": "pressure gradient", "choice_4_value": "pressure_gradient"
+    },
+    {
+        "quiz_question_qId": "q22",
+        "choice_1": "Bay", "choice_1_value": "Bay",
+        "choice_2": "Gulf Stream", "choice_2_value": "Gulf_Stream",
+        "choice_3": "Fjord", "choice_3_value": "Fjord",
+        "choice_4": "None of these", "choice_4_value": "none"
+    },
+    {
+        "quiz_question_qId": "q23",
+        "choice_1": "sedimentary", "choice_1_value": "sedimentary",
+        "choice_2": "metamorphic", "choice_2_value": "metamorphic",
+        "choice_3": "igneous", "choice_3_value": "igneous",
+        "choice_4": "all of these", "choice_4_value": "all_of_these"
+    },
+    {
+        "quiz_question_qId": "q24",
+        "choice_1": "45", "choice_1_value": "45",
+        "choice_2": "55", "choice_2_value": "55",
+        "choice_3": "65", "choice_3_value": "65",
+        "choice_4": "35", "choice_4_value": "35"
+    },
+    {
+        "quiz_question_qId": "q25",
+        "choice_1": "Speaker", "choice_1_value": "Speaker",
+        "choice_2": "Prime Minister", "choice_2_value": "Prime_Minister",
+        "choice_3": "Minister of Parliamentary Affairs", "choice_3_value": "Parliamentary_Affairs",
+        "choice_4": "Home Minister", "choice_4_value": "Home_Minister"
+    },
+    {
+        "quiz_question_qId": "q26",
+        "choice_1": "Union List", "choice_1_value": "Union_List",
+        "choice_2": "State List", "choice_2_value": "State_List",
+        "choice_3": "Concurrent List", "choice_3_value": "Concurrent_List",
+        "choice_4": "Residuary List", "choice_4_value": "Residuary_List"
+    },
+    {
+        "quiz_question_qId": "q27",
+        "choice_1": "24th Amendment", "choice_1_value": "24th",
+        "choice_2": "25th Amendment ", "choice_2_value": "25th",
+        "choice_3": "42nd Amendment", "choice_3_value": "42nd",
+        "choice_4": "44th Amendment", "choice_4_value": "44th"
+    },
+    {
+        "quiz_question_qId": "q28",
+        "choice_1": "children", "choice_1_value": "children",
+        "choice_2": "labourers", "choice_2_value": "labourers",
+        "choice_3": "govt. servants", "choice_3_value": "govt_servants",
+        "choice_4": "legislators", "choice_4_value": "legislators"
+    },
+    {
+        "quiz_question_qId": "q29",
+        "choice_1": "Constitution", "choice_1_value": "Constitution",
+        "choice_2": "Rules of the house", "choice_2_value": "Rules_of the house",
+        "choice_3": "In a separate Parliamentary Statute", "choice_3_value": "Parliamentary_Statute",
+        "choice_4": "None of these", "choice_4_value": "none"
+    },
+    {
+        "quiz_question_qId": "q30",
+        "choice_1": "Dadabhai Naoroji", "choice_1_value": "Dadabhai_Naoroji",
+        "choice_2": "Sachichidanand Sinha", "choice_2_value": "Sachichidanand_Sinha",
+        "choice_3": "Satyendra Prasanno Sinha", "choice_3_value": "Satyendra",
+        "choice_4": " Satyendranath Tagore", "choice_4_value": "Satyendranath_Tagore"
+    },
+    {
+        "quiz_question_qId": "q31",
+        "choice_1": "Prime Minister", "choice_1_value": "Prime_Minister",
+        "choice_2": "President", "choice_2_value": "President",
+        "choice_3": "Member of Lok Sabha", "choice_3_value": "Member_Lok_Sabha",
+        "choice_4": "Member of Rajya Sabha", "choice_4_value": "Member_Rajya_Sabha"
+    },
+    {
+        "quiz_question_qId": "q32",
+        "choice_1": "Speaker of Lok Sabha", "choice_1_value": "Speaker_Lok",
+        "choice_2": "Chairman of Rajya Sabha", "choice_2_value": "Chairman_Rajya_Sabha",
+        "choice_3": "Both a & b", "choice_3_value": "Both_a_b",
+        "choice_4": "None of the above", "choice_4_value": "None_of_the_above"
+    },
+    {
+        "quiz_question_qId": "q33",
+        "choice_1": "Prime Minister", "choice_1_value": "Prime_Minister",
+        "choice_2": "Speaker of Lok Sabha", "choice_2_value": "Speaker_Lok",
+        "choice_3": "Chief Justice of India", "choice_3_value": "Chief_Justice_India",
+        "choice_4": "Senior most Governor of a State", "choice_4_value": "Senior_Governor_State"
+    },
+    {
+        "quiz_question_qId": "q34",
+        "choice_1": "H.N. Kanzru", "choice_1_value": "_.N_Kanzru",
+        "choice_2": "B.R. Ambedkar", "choice_2_value": "B_R_mbedkar",
+        "choice_3": "Dr. Rajendra Prasad", "choice_3_value": "Dr_Rajendra_Prasad",
+        "choice_4": "Alladi Krishnaswami Ayyar", "choice_4_value": "Alladi_Krishnaswami_Ayyar"
+    },
+    {
+        "quiz_question_qId": "q35",
+        "choice_1": "368", "choice_1_value": "368",
+        "choice_2": "356", "choice_2_value": "356",
+        "choice_3": "357", "choice_3_value": "357",
+        "choice_4": "359", "choice_4_value": "359"
+    },
+    {
+        "quiz_question_qId": "q36",
+        "choice_1": "Orissa", "choice_1_value": "Orissa",
+        "choice_2": "Bihar", "choice_2_value": "Bihar",
+        "choice_3": "Punjab", "choice_3_value": "Punjab",
+        "choice_4": "Maharashtra", "choice_4_value": "Maharashtra"
+    },
+    {
+        "quiz_question_qId": "q37",
+        "choice_1": "6 months", "choice_1_value": "6",
+        "choice_2": "8 months", "choice_2_value": "8",
+        "choice_3": "12 months", "choice_3_value": "12",
+        "choice_4": "None of these", "choice_4_value": "none"
+    },
+    {
+        "quiz_question_qId": "q38",
+        "choice_1": "M.K. Gandhi", "choice_1_value": "M_K_Gandhi",
+        "choice_2": "J. L. Nehru", "choice_2_value": "J_L_Nehru",
+        "choice_3": "B.R. Ambedkar", "choice_3_value": "B_R_mbedkar",
+        "choice_4": "Dr. Rajendra Prasad", "choice_4_value": "Dr_Rajendra_Prasad"
+    },
+    {
+        "quiz_question_qId": "q39",
+        "choice_1": "Lok Sabha Only", "choice_1_value": "LS",
+        "choice_2": "Lok Sabha and the President", "choice_2_value": "LSP",
+        "choice_3": "Rajya Sabha and Lok Sabha", "choice_3_value": "RS_LS",
+        "choice_4": "The President, Rajya Sabha and Lok Sabha", "choice_4_value": "P_RS_LS"
+    },
+    {
+        "quiz_question_qId": "q40",
+        "choice_1": "Aurangzeb", "choice_1_value": "Aurangzeb",
+        "choice_2": "Jehangir", "choice_2_value": "Jehangir",
+        "choice_3": "Shahjehan", "choice_3_value": "Shahjehan",
+        "choice_4": "Akbar", "choice_4_value": "Akbar"
+    },
+    {
+        "quiz_question_qId": "q41",
+        "choice_1": "Mandalay", "choice_1_value": "Mandalay",
+        "choice_2": "Andaman & Nicobar", "choice_2_value": "Andaman_Nicobar",
+        "choice_3": "Rangoon", "choice_3_value": "Rangoon",
+        "choice_4": "Hyderabad", "choice_4_value": "Hyderabad"
+    },
+    {
+        "quiz_question_qId": "q42",
+        "choice_1": "Mahavira", "choice_1_value": "Mahavira",
+        "choice_2": "Rishaba", "choice_2_value": "Rishaba",
+        "choice_3": "Parsvanatha", "choice_3_value": "Parsvanatha",
+        "choice_4": "Manisubrata", "choice_4_value": "Manisubrata"
+    },
+    {
+        "quiz_question_qId": "q43",
+        "choice_1": "Dharmakirti", "choice_1_value": "Dharmakirti",
+        "choice_2": "Priyadarsi", "choice_2_value": "Priyadarsi",
+        "choice_3": "Chakravarti", "choice_3_value": "Chakravarti",
+        "choice_4": "Dharmadeva", "choice_4_value": "Dharmadeva"
+    },
+    {
+        "quiz_question_qId": "q44",
+        "choice_1": "Uttaramerur", "choice_1_value": "Uttaramerur",
+        "choice_2": "Kanchipuram", "choice_2_value": "Kanchipuram",
+        "choice_3": "Thanjavur", "choice_3_value": "Thanjavur",
+        "choice_4": "Uraiyur", "choice_4_value": "Uraiyur"
+    },
+    {
+        "quiz_question_qId": "q45",
+        "choice_1": "Ashoka", "choice_1_value": "Ashoka",
+        "choice_2": "Samudragupta", "choice_2_value": "Samudragupta",
+        "choice_3": "Kanishka", "choice_3_value": "Kanishka",
+        "choice_4": "Parikshit", "choice_4_value": "Harshavardhana"
+    },
+    {
+        "quiz_question_qId": "q46",
+        "choice_1": "William Jones", "choice_1_value": "William_Jones",
+        "choice_2": "Wellesley", "choice_2_value": "Wellesley",
+        "choice_3": "Sir Charles Metcalfe", "choice_3_value": "Sir_Charles_Metcalfe",
+        "choice_4": "Lord Minto", "choice_4_value": "Lord_Minto"
+    },
+    {
+        "quiz_question_qId": "q47",
+        "choice_1": "Vishvamitra", "choice_1_value": "Vishvamitra",
+        "choice_2": "Vasishtha", "choice_2_value": "Vasishtha",
+        "choice_3": "Indra", "choice_3_value": "Indra",
+        "choice_4": "Parikshit", "choice_4_value": "Parikshit"
+    },
+    {
+        "quiz_question_qId": "q48",
+        "choice_1": "Sardar Vallabhai patel", "choice_1_value": "Sardar_Vallabhai_patel",
+        "choice_2": "Rajinder Singh", "choice_2_value": "Rajinder_Singh",
+        "choice_3": "Nelson Mandela", "choice_3_value": "Nelson_Mandela",
+        "choice_4": "Porus", "choice_4_value": "Porus"
+    }
+]

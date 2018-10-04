@@ -1,205 +1,194 @@
-{
-    "answers": [
+[
         {
-            "questionId": 1,
+            "qId": "q1",
             "answers": "elected_members_of_the_legislative_assembly"
         },
         {
-            "questionId": 2,
+            "qId": "q2",
             "answers": "High_courts"
         },
         {
-            "questionId": 3,
+            "qId": "q3",
             "answers": "16th_Lok_Sabha"
         },
         {
-            "questionId": 4,
+            "qId": "q4",
             "answers": "rgt_cons_remedies"
         },
         {
-            "questionId": 5,
+            "qId": "q5",
             "answers": "Coimbatore"
         },
         {
-            "questionId": 6,
+            "qId": "q6",
             "answers": "Five_and_half"
         },
         {
-            "questionId": 7,
+            "qId": "q7",
             "answers": "Palk"
         },
         {
-            "questionId": 8,
+            "qId": "q8",
             "answers": "Punjab"
         },
         {
-            "questionId": 9,
+            "qId": "q9",
             "answers": "Sutlej"
         },
         {
-            "questionId": 10,
+            "qId": "q10",
             "answers": "Udaipur"
         },
         {
-            "questionId": 11,
+            "qId": "q11",
             "answers": "Longitude"
         },
         {
-            "questionId": 12,
+            "qId": "q12",
             "answers": "Tapti"
         },
         {
-            "questionId": 13,
+            "qId": "q13",
             "answers": "Troposphere"
         },
         {
-            "questionId": 14,
+            "qId": "q14",
             "answers": "Nilgiri"
         },
         {
-            "questionId": 15,
+            "qId": "q15",
             "answers": "Non_renewable"
         },
         {
-            "questionId": 16,
+            "qId": "q16",
             "answers": "Over_irrigation"
         },
         {
-            "questionId": 17,
-            "answers": "Over_irrigation"
-        },
-        {
-            "questionId": 18,
+            "qId": "q17",
             "answers": "Uttrakhand"
         },
         {
-            "questionId": 19,
+            "qId": "q18",
             "answers": "Shimla_high_sea_level"
         },
         {
-            "questionId": 20,
+            "qId": "q19",
             "answers": "earth"
         },
         {
-            "questionId": 21,
+            "qId": "q20",
             "answers": "temperature_rise"
         },
         {
-            "questionId": 22,
+            "qId": "q21",
             "answers": "pressure_gradient"
         },
         {
-            "questionId": 23,
+            "qId": "q22",
             "answers": "Fjord"
         },
         {
-            "questionId": 24,
+            "qId": "q23",
             "answers": "igneous"
         },
         {
-            "questionId": 25,
+            "qId": "q24",
             "answers": "35"
         },
         {
-            "questionId": 26,
+            "qId": "q25",
             "answers": "Prime_Minister"
         },
         {
-            "questionId": 27,
+            "qId": "q26",
             "answers": "Concurrent_List"
         },
         {
-            "questionId": 28,
+            "qId": "q27",
             "answers": "42nd"
         },
         {
-            "questionId": 29,
+            "qId": "q28",
             "answers": "children"
         },
         {
-            "questionId": 30,
+            "qId": "q29",
             "answers": "none"
         },
         {
-            "questionId": 31,
+            "qId": "q30",
             "answers": "Satyendra"
         },
         {
-            "questionId": 32,
+            "qId": "q31",
             "answers": "President"
         },
         {
-            "questionId": 33,
+            "qId": "q32",
             "answers": "Both_a_b"
         },
         {
-            "questionId": 34,
+            "qId": "q33",
             "answers": "Chief_Justice_India"
         },
         {
-            "questionId": 35,
+            "qId": "q34",
             "answers": "B_R_mbedkar"
         },
         {
-            "questionId": 36,
+            "qId": "q35",
             "answers": "368"
         },
         {
-            "questionId": 37,
+            "qId": "q36",
             "answers": "Maharashtra"
         },
         {
-            "questionId": 38,
+            "qId": "q37",
             "answers": "6"
         },
         {
-            "questionId": 39,
+            "qId": "q38",
             "answers": "B_R_mbedkar"
         },
         {
-            "questionId": 40,
+            "qId": "q39",
             "answers": "P_RS_LS"
         },
         {
-            "questionId": 41,
+            "qId": "q40",
             "answers": "Jehangir"
         },
         {
-            "questionId": 42,
+            "qId": "q41",
             "answers": "Rangoon"
         },
         {
-            "questionId": 43,
-            "answers": "Rangoon"
-        },
-        {
-            "questionId": 44,
+            "qId": "q42",
             "answers": "Mahavira"
         },
         {
-            "questionId": 45,
+            "qId": "q43",
             "answers": "Priyadarsi"
         },
         {
-            "questionId": 46,
+            "qId": "q44",
             "answers": "Uttaramerur"
         },
         {
-            "questionId": 47,
+            "qId": "q45",
             "answers": "Kanishka"
         },
         {
-            "questionId": 48,
+            "qId": "q46",
             "answers": "Sir_Charles_Metcalfe"
         },
         {
-            "questionId": 49,
+            "qId": "q47",
             "answers": "Vishvamitra"
         },
         {
-            "questionId": 50,
+            "qId": "q48",
             "answers": "Rajinder_Singh"
         }
-    ]
-  }
-  
+]
